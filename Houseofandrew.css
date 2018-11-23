@@ -1,0 +1,169 @@
+html, body {
+
+    height: 100%;
+
+}
+
+ 
+
+
+
+header 
+
+{
+
+	
+
+	height:100px;
+
+	margin-bottom:50px;
+
+}
+
+header h1
+
+ 
+
+{
+
+	font-family: Luminari, fantasy, sans-serif, monospace;
+
+	float:left;
+
+	margin-left:50px;
+
+	font-size:2.5em;
+
+
+
+}
+
+header h2
+
+{
+
+	float:right;
+
+	
+
+}
+
+
+
+.produit
+
+{
+
+	margin-left:50px;
+
+}
+
+.contact
+
+{
+
+	margin-left:50px;
+
+}
+
+.blog
+
+{
+
+	margin-left:50px;
+
+}
+
+
+
+
+
+section,figure,footer
+
+{
+
+	text-align:center;
+
+}
+
+
+
+
+
+p
+
+{
+
+	margin-left:450px;
+
+	margin-right:450px;
+
+	margin-top:25px;
+
+	margin-bottom:25px;
+
+	font-size: 20px;
+
+	font-family:Arial black,sans-serif, monospace;
+
+}
+
+
+
+.section2
+
+{
+
+	
+
+	height:450x;
+
+	width:770px;
+
+	border:1px solid black;
+	
+	margin:0 auto;
+
+	
+
+    
+
+}
+
+.retour
+
+{
+
+	float:left;
+
+
+
+}
+
+.paiement
+
+{
+
+	float:center;
+
+
+
+}
+
+.livraison
+
+{
+
+	float:right;
+
+}
+
+
+
+footer
+
+{
+
+	font-size:18px;
+
+}
